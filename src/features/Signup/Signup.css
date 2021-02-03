@@ -1,0 +1,20 @@
+.signup {
+  height: 80vh;
+}
+.signup__headers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.devider {
+  border-top: 1px solid gray;
+  min-width: 40%;
+  height: 1px;
+}
+
+.devider__active {
+  border-top: 2px solid rebeccapurple;
+  min-width: 40%;
+  height: 1px;
+}

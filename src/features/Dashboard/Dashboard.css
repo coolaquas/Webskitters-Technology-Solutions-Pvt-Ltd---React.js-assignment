@@ -1,0 +1,19 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  width: 100vw;
+  height: 80vh;
+}
+.dashboard__datacontainer {
+  width: 80%;
+}
+.container__data {
+  display: flex;
+  padding: 2%;
+}
+.btn__logout {
+  width: 30%;
+}

@@ -1,0 +1,15 @@
+.name {
+  display: flex;
+  flex-direction: column;
+}
+.name .input__box {
+  width: 40%;
+  margin: 1%;
+}
+.name .button_container {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  margin: 0 2%;
+  padding: 1%;
+}

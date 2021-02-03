@@ -1,0 +1,15 @@
+.address {
+  display: flex;
+  flex-direction: column;
+}
+.address .input__box {
+  width: 40%;
+  margin: 1%;
+}
+.address .button_container {
+  display: flex;
+  justify-content: space-around;
+  width: 35%;
+  margin: 0 2%;
+  padding: 1%;
+}
